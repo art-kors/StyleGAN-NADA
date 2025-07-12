@@ -1,4 +1,6 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+
+
 <a id="readme-top"></a>
 <!-- PROJECT LOGO -->
 <br />
@@ -24,6 +26,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
 <img src="/images/architecture.png" alt="contrib.rocks image" />
 
 
@@ -42,9 +45,15 @@ This project is a reimplementation of [StyleGAN-NADA](https://stylegan-nada.gith
 - Anaconda
 
 
-### Installation
+### Pretrained model
 
-1. Open the `stylegan_nada.ipynb`
+you can download weights in `.pth` format [here.](https://drive.google.com/file/d/1bhWgbI7oleIBPs9kE7IL7LGkZpzNOsFO/view?usp=sharing)
+
+
+
+### Train your own model
+
+1. Open the `stylegan_nada.ipynb` locally or colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/rinongal/stylegan-nada/blob/main/stylegan_nada.ipynb) 
 2. Enter the text description of style A and style B
 3. Specify the path to the image you want to convert and the path to save it.
 4. press "Run all". In process you need login in google drive to download StyleGAN2 weights, it's okay.
@@ -54,10 +63,10 @@ This project is a reimplementation of [StyleGAN-NADA](https://stylegan-nada.gith
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
 
-Написать литобзор на StyleGAN-NADA и просто сослаться на пдф.
+## Report
+
+read the REPORT.md
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
