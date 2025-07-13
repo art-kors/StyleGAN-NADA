@@ -17,7 +17,7 @@
     <a href="https://stylegan-nada.github.io/"><strong>Original »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://stylegan-nada-reimplementation.streamlit.app/">View showcase</a>
     &middot;
     <a href="https://github.com/art-kors/StyleGAN-NADA/issues/new">Report Bug</a>
     &middot;
